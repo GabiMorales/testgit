@@ -1,1 +1,3 @@
-este es una prueba de git
+este es una prueba de git en master
+
+este es una inserción de texto en dev1 
