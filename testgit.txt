@@ -7,3 +7,5 @@ al parecer funcionó --OK, vamos con el segundo intento en dev1
 despues de cerrar vamos a volver a hacer un commit en dev1
 
 despues de borrar el archivo y clonar
+
+modificacion de archivo en dev1 despues de eliminar el remoto
