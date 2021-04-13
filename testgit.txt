@@ -1,11 +1,1 @@
-este es una prueba de git en master
-
-este es una inserción de texto en dev1 
-
-al parecer funcionó --OK, vamos con el segundo intento en dev1
-
-despues de cerrar vamos a volver a hacer un commit en dev1
-
-despues de borrar el archivo y clonar
-
-despues de modificar en dev1 
+este en un archivo modificado en rama dev1
